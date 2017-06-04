@@ -2,7 +2,7 @@
   "name": "serhan-sohbet-ve-oyun-eski",
   "version": "0.0.1",
   "description": "Eski sohbet ve oyun'un dosyaları",
-  "main": "shardmanager.js",
+  "main": "bot.js",
   "dependencies": {
     "cleverbot-node": "^0.3.6",
     "fuzzysearch": "^1.0.3",
@@ -15,7 +15,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node shardmanager.js"
+    "test": "node bot.js"
   },
   "repository": {
     "type": "git",
