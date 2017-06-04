@@ -79,8 +79,7 @@ client.unload = command => {
 };
 
 client.elevation = message => {
-  if(!message.guild) {
-	return; }
+  if(!message.guild) return;
   let permlvl = 0;
   if (message.member.hasPermission("BAN_MEMBERS")) permlvl = 2;
   if (message.member.hasPermission("ADMINISTRATOR")) permlvl = 3;
