@@ -1,7 +1,11 @@
 {
 	"sahip": "IDN BURAYA",
+	"ad": "SAHİP ADI",
+	"botadi": "BOT ADI",
+	"davet": "BOT DAVET",
+	"botserverlink": "BOT DESTEK SUNUCUSU DAVETİ",
 	"owner": "IDN BURAYA",
 	"prefix": "!!!",
-	"surum": "0.0.1",
-	"token": "TOKEN BURAYA"
+	"surum": "0.0.2",
+	"token": "ÇOK ÇOK GİZLİ TOKENCİĞİMİZ BURAYA GELİYOR"
 }
