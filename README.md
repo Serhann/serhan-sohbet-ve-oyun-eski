@@ -5,3 +5,5 @@
 <b>4. Adım:</b> Açılan komut penceresine <b>npm install</b> komutunu yazın ve modüllerin yüklenmesini bekleyin.<br>
 <b>5. Adım:</b> Ayarlar.json dosyasını açıp ayarlarınızı yapın.<br>
 <b>6. Adım:</b> Modüller yüklendikten sonra, komut penceresine <b>node bot.js</b> komutunu yazın ve botu çalıştırın.<br>
+
+<h2>Botun altyapısı için kullandığım kaynak: https://github.com/AnIdiotsGuide/Tutorial-Bot</h2>
